@@ -33,8 +33,8 @@ public class View extends JPanel{
      int yloca;
 
     
-	    public static void main(String[] args) {
-
+//	    public static void main(String[] args) {
+//
 //	    	for(int i = 0; i < 1000; i++){
 //	    		frame.repaint();
 //	    		try {
@@ -58,9 +58,9 @@ public class View extends JPanel{
 //	    			e.printStackTrace();
 //	    		}
 //	    	}
-			Controller run = new Controller();
-			run.start();
-	    }
+//			Controller run = new Controller();
+//			run.start();
+//	    }
 	    
 	    
     public int getWidth() {
